@@ -4,8 +4,11 @@
 
 <h3 align="left">contact me :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ismailov uluk" target="blank"><img align="center" src="https:/ /raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismailov uluk" height="30" width="40 " /></а>
-<a href="https://instagram.com/ismailovvv.001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/instagram.svg" alt="ismailovvv.001" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ismailov uluk" target="blank"><img width="73" alt="image" src="https://github.com/uluk001/uluk001/assets/96724618/d1be47c4-41a7-4c78-a910-747235d42ed8">
+</а>
+<a href="https://instagram.com/ismailovvv.001" target="blank"><img width="69" alt="image" src="https://github.com/uluk001/uluk001/assets/96724618/edb9d5ab-5e83-4135-a063-1733856aefb4">
+</a>
+
 </p>
 
 <h3 align="left ">Languages and tools:</h3>
